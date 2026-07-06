@@ -1,0 +1,49 @@
+# Geotechnical Engineering1 — Whanganui
+
+> Geotechnical engineering services in Whanganui, New Zealand.
+
+## Services
+- [Anchors](https://whanganui.geotechnical-engineering1.co/anchors/)
+- [Cbr Road](https://whanganui.geotechnical-engineering1.co/cbr-road/)
+- [Cpt Test](https://whanganui.geotechnical-engineering1.co/cpt-test/)
+- [Deep Excavations](https://whanganui.geotechnical-engineering1.co/deep-excavations/)
+- [Excavations](https://whanganui.geotechnical-engineering1.co/excavations/)
+- [Flexible Pavement](https://whanganui.geotechnical-engineering1.co/flexible-pavement/)
+- [Footings](https://whanganui.geotechnical-engineering1.co/footings/)
+- [Foundations](https://whanganui.geotechnical-engineering1.co/foundations/)
+- [Geophysics](https://whanganui.geotechnical-engineering1.co/geophysics/)
+- [Grain Size](https://whanganui.geotechnical-engineering1.co/grain-size/)
+- [Ground Improvement](https://whanganui.geotechnical-engineering1.co/ground-improvement/)
+- [Grouting](https://whanganui.geotechnical-engineering1.co/grouting/)
+- [In Situ Permeability](https://whanganui.geotechnical-engineering1.co/in-situ-permeability/)
+- [Investigation](https://whanganui.geotechnical-engineering1.co/investigation/)
+- [Lab In Situ](https://whanganui.geotechnical-engineering1.co/lab-in-situ/)
+- [Laboratory](https://whanganui.geotechnical-engineering1.co/laboratory/)
+- [Liquefaction](https://whanganui.geotechnical-engineering1.co/liquefaction/)
+- [Masw](https://whanganui.geotechnical-engineering1.co/masw/)
+- [Mat Foundations](https://whanganui.geotechnical-engineering1.co/mat-foundations/)
+- [Piles](https://whanganui.geotechnical-engineering1.co/piles/)
+- [Resistivity](https://whanganui.geotechnical-engineering1.co/resistivity/)
+- [Retaining Walls](https://whanganui.geotechnical-engineering1.co/retaining-walls/)
+- [Rigid Pavement](https://whanganui.geotechnical-engineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://whanganui.geotechnical-engineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://whanganui.geotechnical-engineering1.co/sand-cone-density/)
+- [Seismic](https://whanganui.geotechnical-engineering1.co/seismic/)
+- [Seismic Isolation](https://whanganui.geotechnical-engineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://whanganui.geotechnical-engineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://whanganui.geotechnical-engineering1.co/seismic-refraction/)
+- [Slope Stability](https://whanganui.geotechnical-engineering1.co/slope-stability/)
+- [Slopes](https://whanganui.geotechnical-engineering1.co/slopes/)
+- [Soft Ground Tunnels](https://whanganui.geotechnical-engineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://whanganui.geotechnical-engineering1.co/spt-drilling/)
+- [Stone Columns](https://whanganui.geotechnical-engineering1.co/stone-columns/)
+- [Test Pits](https://whanganui.geotechnical-engineering1.co/test-pits/)
+- [Triaxial](https://whanganui.geotechnical-engineering1.co/triaxial/)
+- [Vibrocompaction](https://whanganui.geotechnical-engineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://whanganui.geotechnical-engineering1.co/
+
+## About
+This site provides geotechnical engineering services in Whanganui, New Zealand.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
